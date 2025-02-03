@@ -1,0 +1,113 @@
+{
+  "weatherData": [
+    {
+      "location": "Dhaka",
+      "weather_emoji": "☀️",
+      "temperature": "32°C",
+      "uv_index": 7,
+      "rain_percentage": "20%",
+      "air_quality": "Moderate",
+      "sunrise": "05:40 AM",
+      "sunset": "05:50 PM",
+      "day_length": "12h 10m",
+      "warnings": null
+    },
+    {
+      "location": "Chittagong",
+      "weather_emoji": "🌦️",
+      "temperature": "29°C",
+      "uv_index": 5,
+      "rain_percentage": "60%",
+      "air_quality": "Good",
+      "sunrise": "05:35 AM",
+      "sunset": "05:45 PM",
+      "day_length": "12h 10m",
+      "warnings": {
+        "weather_emoji": "🌧️",
+        "rain_percentage": "60%",
+        "expected_time": "02:00 PM - 05:00 PM",
+        "warning_title": "Moderate Rain Warning"
+      }
+    },
+    {
+      "location": "Sylhet",
+      "weather_emoji": "🌧️",
+      "temperature": "27°C",
+      "uv_index": 3,
+      "rain_percentage": "80%",
+      "air_quality": "Good",
+      "sunrise": "05:30 AM",
+      "sunset": "05:40 PM",
+      "day_length": "12h 10m",
+      "warnings": {
+        "weather_emoji": "⛈️",
+        "rain_percentage": "80%",
+        "expected_time": "01:00 PM - 04:00 PM",
+        "warning_title": "Heavy Rain Warning"
+      }
+    },
+    {
+      "location": "Rajshahi",
+      "weather_emoji": "☀️",
+      "temperature": "34°C",
+      "uv_index": 9,
+      "rain_percentage": "10%",
+      "air_quality": "Poor",
+      "sunrise": "05:50 AM",
+      "sunset": "06:00 PM",
+      "day_length": "12h 10m",
+      "warnings": {
+        "weather_emoji": "☀️",
+        "rain_percentage": "10%",
+        "expected_time": "05:00 PM - 06:00 PM",
+        "warning_title": "High UV Alert"
+      }
+    },
+    {
+      "location": "Khulna",
+      "weather_emoji": "🌤️",
+      "temperature": "31°C",
+      "uv_index": 6,
+      "rain_percentage": "30%",
+      "air_quality": "Moderate",
+      "sunrise": "05:55 AM",
+      "sunset": "06:05 PM",
+      "day_length": "12h 10m",
+      "warnings": null
+    },
+    {
+      "location": "Barisal",
+      "weather_emoji": "⛅",
+      "temperature": "30°C",
+      "uv_index": 4,
+      "rain_percentage": "40%",
+      "air_quality": "Good",
+      "sunrise": "05:45 AM",
+      "sunset": "05:55 PM",
+      "day_length": "12h 10m",
+      "warnings": {
+        "weather_emoji": "🌧️",
+        "rain_percentage": "40%",
+        "expected_time": "03:30 PM - 06:30 PM",
+        "warning_title": "Moderate Rain Forecast"
+      }
+    },
+    {
+      "location": "Cox's Bazar",
+      "weather_emoji": "🌧️",
+      "temperature": "28°C",
+      "uv_index": 2,
+      "rain_percentage": "90%",
+      "air_quality": "Good",
+      "sunrise": "05:35 AM",
+      "sunset": "05:45 PM",
+      "day_length": "12h 10m",
+      "warnings": {
+        "weather_emoji": "⛈️",
+        "rain_percentage": "90%",
+        "expected_time": "12:00 PM - 03:00 PM",
+        "warning_title": "Heavy Rain with Thunderstorms"
+      }
+    }
+  ]
+}
